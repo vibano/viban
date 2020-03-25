@@ -1,0 +1,1 @@
+general {browser {sensible-browser %s} tmpdir /tmp printcmd lpr printencoding utf-8 theme default} postgresql {psql psql dblist viban dbname viban host {} port 5432 user viban usePGPASSWORD 1} geometry {main {400 300} sql {600 700} form {640 480} text {600 400}}

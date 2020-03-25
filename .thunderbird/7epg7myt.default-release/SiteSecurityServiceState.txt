@@ -1,0 +1,5 @@
+firefox.settings.services.mozilla.com:HSTS	0	18343	1616457178096,1,0,2
+autoconfig.thunderbird.net:HSTS	0	18343	1616457154509,1,0,2
+services.addons.thunderbird.net:HSTS	0	18343	1616457296804,1,0,2
+location.services.mozilla.com:HSTS	0	18343	1616457028366,1,1,2
+blocklists.settings.services.mozilla.com:HSTS	0	18343	1616457417224,1,0,2

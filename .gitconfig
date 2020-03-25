@@ -1,0 +1,16 @@
+[user]
+	name = vibano
+	email = ndvibanpro@gmail.com
+[merge]
+	tool = vimdiff
+[mergetool]
+	path = C:/Program Files/KDiff3/kdiff3.exe
+[mergetool "kdiff3"]
+	path = C:/Program Files/KDiff3/kdiff3.exe
+	trustExitCode = false
+	cmd = \"C:\\\\Program Files (x86) \\\\ KDiff3\\\\kdiff3\" $BASE $LOCAL $REMOTE -o $MERGED
+[diff]
+	guitool = kdiff3
+[difftool "kdiff3"]
+	path = C:/Program Files/KDiff3/kdiff3.exe
+	trustExitCode = false

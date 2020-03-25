@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.bunqdesktop-j13u7IohNQx8BRAxE5KR0R1EtuB13k35",
+        "date_created": 1572971468.0,
+        "description": "Something went wrong\nWe failed to load the share invite responses for this account:\n\nRoute not found.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 1,
+        "locale": "en_US",
+        "rating": 40,
+        "reported": 0,
+        "review_id": 106389,
+        "score": 9,
+        "summary": "I get this error",
+        "user_display": "Bob",
+        "user_hash": "da26354611f27572647736255e838bc55b830c4b",
+        "user_skey": "5ee8018674b8b0e143c06921fabcbb85f9aca908",
+        "version": "0.9.8"
+    }
+]
