@@ -3,13 +3,13 @@
   <context id="">
     <application id="gnome-control-center.desktop" open-window-count="0" score="16" last-seen="1585047056"/>
     <application id="yelp.desktop" open-window-count="0" score="1" last-seen="1584906053"/>
-    <application id="firefox.desktop" open-window-count="1" score="57" last-seen="1585166998"/>
+    <application id="firefox.desktop" open-window-count="0" score="57" last-seen="1585166998"/>
     <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1584904324"/>
     <application id="software-properties-gtk.desktop" open-window-count="0" score="7" last-seen="1584906295"/>
-    <application id="org.gnome.gedit.desktop" open-window-count="0" score="88" last-seen="1585147664"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="129" last-seen="1585181412"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="2479" last-seen="1585166685"/>
-    <application id="gnome-initial-setup.desktop" open-window-count="1" score="110" last-seen="1585158553"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="4493" last-seen="1585193964"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="1" score="112" last-seen="1585193915"/>
     <application id="libreoffice-writer.desktop" open-window-count="0" score="24" last-seen="1584906032"/>
     <application id="thunderbird.desktop" open-window-count="0" score="42" last-seen="1584921322"/>
     <application id="gitg.desktop" open-window-count="0" score="44" last-seen="1584905749"/>

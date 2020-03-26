@@ -376,3 +376,147 @@ ls -al ~/.ssh
 ls 
 ls -ltr
 ssh-keygen -t rsa -b 4096 -C "ndvibanopro@gmail.com"
+ll
+cd gitfldr
+ll
+clear
+git status
+clear
+git config --global user.name "vibano"
+git config --global user.email "ndvibanpro@gmail.com
+git config --global user.name "vibano"
+git config --global user.email "ndvibanpro@gmail.com
+git config --global user.name "vibano"
+git config --global user.email "ndvibanpro@gmail.com
+
+
+git remote add origin git@github.com:vibano/edurekagit.git
+cd ..
+mkdir bambili
+cd bambili
+git clone git@github.com:vibano/edurekagit.git
+cd ..
+cd gitflfr
+cd gitfldr
+git clone git@github.com:vibano/edurekagit.git
+git init
+git 
+git remote add origin git@github.com:vibano/edurekagit.git
+git clone git@github.com:vibano/edurekagit.git
+ssh-keygen
+git clone git@github.com:vibano/edurekagit.git
+ssh-keygen -t rsa
+cd /home/viban/.ssh/id_rsa.pub
+/home/viban/.ssh/id_rsa.pub
+cd ..
+pwd
+ll
+.ssh
+cd /.ssh
+cd .ssh
+ll
+cd id_rsa.pub
+cat id_rsa.pub
+git clone git@github.com:vibano/edurekagit.git
+cd ..
+cd bambili
+ll
+ls -ltr
+ll
+ls -al
+cd
+cd gitfldr
+ll
+cd ..
+mkdir tema
+ll
+cd tema
+git clone git@github.com:vibano/edurekagit.git
+ll
+cd edurekagit
+ll
+cat viban.java
+git pull origin master
+cat ok
+cat viban.java
+git clone git@github.com:vibano/edurekagit.git
+ll
+git clone git@github.com:vibano/edurekagit.git
+git pull origin master
+git branch
+git branch -b claude
+git checkout -b claude
+git clone git@github.com:vibano/edurekagit.git
+git pull origin master
+git pull origin claude
+cd ..
+touch banana.com
+gedit banana.com
+git add banana.com
+git commit -m "ripe banana"
+git status
+ll
+cd branch
+cd ..
+cd branch
+git branch
+touch achu.com
+gedit achu.com
+git add .
+ll
+cd tema
+ll
+cd edurekagit
+touch mimi.com
+gedit mimi.com
+git add mimi.com
+git status
+git commit -m "beautiful"
+git status 
+git push origin master
+git add .
+git commit -m "all"
+git status
+git push origin master
+ll
+cd ll
+cd ..
+ll
+git push origin master
+cd edurekagit
+ll
+git push origin master
+git status
+git puii origin master
+git pull origin master
+cd ..
+touch dacosta.txt
+gedit dacosta.txt
+git status
+cd edurekagit
+ll
+touch water.com
+gedit water.com
+git status
+git add water.com
+git commit -m "pure"
+git status
+git push origin master
+git pull origin master
+ll
+git stsus
+touch vice.txt
+gedit vice.txt
+git status
+git add .
+git status
+git commit -m 'send to remote'
+git stsus
+git status
+git push origin master
+git pull origin master
+git push origin master
+git pull origin master
+ll
+gedit viban.txt
+gedit viban.txt
