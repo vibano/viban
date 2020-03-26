@@ -259,3 +259,120 @@ git commit -a -m 'commit all'
 git status
 git log
 git status
+git --version
+mkdir edutask-repo
+git init
+ll
+cd .git
+ll
+cd~
+clear
+cd ..
+ll
+cd edutask-repo
+ll
+git branch
+ll
+git status
+cd ..
+ll
+cd edutask-repo
+touch test.txt
+touch trial.txt
+ll
+git status
+git log
+git status
+cd ..
+git init
+ll
+git status
+git branch
+ll
+git branch homme
+git branch master
+git branch
+git status
+git add .
+cd gitfldr
+ll
+git branch
+touch great.txt
+touch edu.txt
+gedit edu.txt
+cat edu.txt
+vim edu.txt
+cat edu.txt
+gedit edu.txt
+cat edu.txt
+touch boys
+git add edu.txt
+git status
+ll
+git add .
+git status
+git commit -m 'remember this'
+git status
+git log
+clear
+git status
+touch friend.java
+gedit friend.java
+git status
+git commit --m 'Ndehs Welcome to USA'
+git add .
+git status
+git commit --m 'Ndehs Welcome to USA'
+git status
+git config --global "vibano"
+git config --global user.name "vibano"
+git config --global user.email "ndvibanpro@gmail.com"
+git branch 
+git branch -b victory
+git branch victory
+git branch
+git checkout victory
+ls
+gedit edu.txt
+git add .
+git commit -m "great"
+git checkout master
+git merge victory
+git branch -d victory
+git branch
+git branch -b new
+git checkout -b new
+git remote add origin git@github.com:vibano/viban.git
+git remote add origin https://github.com:vibano/viban.git
+mkdir git-repo
+cd git-repo
+git clone git@github.com:vibano/viban.git
+git clone git@github.com:vibano/NewRepo.git
+git clone https://github.com:vibano/viban.git
+git config --global user.name "vibano"
+git config --global user.email "ndvibanpro@gmail.com"
+git clone git@github.com:vibano/viban.git
+ssh -vT git@github.com 
+ssh-agent -s
+ssh-add -1
+ssh-add -E md5
+ll
+ls -ltr
+ssh-add -E md5
+ll -al
+cd ..
+mkdir praise
+cd praise
+git clone git@github.com:vibano/viban.git
+cd ..
+git config --global user.name "vibano"
+git remote add origin git@github.com:vibano/viban.git
+mkdir pikin
+cd pikin 
+git clone git@github.com:vibano/viban.git
+cd ..
+ll
+ls -al ~/.ssh
+ls 
+ls -ltr
+ssh-keygen -t rsa -b 4096 -C "ndvibanopro@gmail.com"
